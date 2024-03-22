@@ -31,3 +31,5 @@ else if (answer.operator === "Division") {
 else {
     console.log("Please select a valid operator");
 }  
+
+console.log("Thank you for using, Made by Syed Abdur Rehman")
