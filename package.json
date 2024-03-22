@@ -1,6 +1,6 @@
 {
   "name": "abdurr-simple-calculator",
-  "version": "1.0.2",
+  "version": "1.0.3pup",
   "description": "simple calculator with Node js, Typescript and inquirer",
   "main": "index.js",
   "type": "module",
